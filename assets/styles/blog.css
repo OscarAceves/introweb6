@@ -1,0 +1,42 @@
+body{
+    background-color:beige;
+}
+
+#articleOne{
+    background-color: gainsboro;
+    border: 1px solid black;
+    border-radius: 25px;
+}
+
+#articleTwo{
+    background-color: gainsboro;
+    border: 1px solid black;
+    border-radius: 25px;
+}
+
+#articleThree{
+    background-color: gainsboro;
+    border: 1px solid black;
+    border-radius: 25px;
+}
+
+#navbarContainer{
+    text-align: center;
+    margin: 30px;
+}
+
+img{
+    border-radius: 25px;
+    border: 1px solid black;
+    margin-left: 20px;
+}
+
+footer {
+    text-align: center;
+    margin: 30px;
+    background-color: gainsboro;
+}
+
+ul li{
+    display: inline;
+}
